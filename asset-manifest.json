@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.8192b378.chunk.css",
-    "main.js": "/static/js/main.f487b0c9.chunk.js",
-    "main.js.map": "/static/js/main.f487b0c9.chunk.js.map",
+    "main.js": "/static/js/main.aa2a7ba4.chunk.js",
+    "main.js.map": "/static/js/main.aa2a7ba4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bca2ec82.js",
     "runtime-main.js.map": "/static/js/runtime-main.bca2ec82.js.map",
     "static/css/2.bf843a8a.chunk.css": "/static/css/2.bf843a8a.chunk.css",
-    "static/js/2.3ec9aa29.chunk.js": "/static/js/2.3ec9aa29.chunk.js",
-    "static/js/2.3ec9aa29.chunk.js.map": "/static/js/2.3ec9aa29.chunk.js.map",
+    "static/js/2.ac2f0e39.chunk.js": "/static/js/2.ac2f0e39.chunk.js",
+    "static/js/2.ac2f0e39.chunk.js.map": "/static/js/2.ac2f0e39.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.bf843a8a.chunk.css.map": "/static/css/2.bf843a8a.chunk.css.map",
     "static/css/main.8192b378.chunk.css.map": "/static/css/main.8192b378.chunk.css.map",
-    "static/js/2.3ec9aa29.chunk.js.LICENSE.txt": "/static/js/2.3ec9aa29.chunk.js.LICENSE.txt",
+    "static/js/2.ac2f0e39.chunk.js.LICENSE.txt": "/static/js/2.ac2f0e39.chunk.js.LICENSE.txt",
     "static/media/AparatoOrtoIcono.99927c7b.png": "/static/media/AparatoOrtoIcono.99927c7b.png",
     "static/media/AparatoOrtodonticoRemovibleIcono.563b48cf.png": "/static/media/AparatoOrtodonticoRemovibleIcono.563b48cf.png",
     "static/media/CoronaDefinitivaIcono.94e9140f.png": "/static/media/CoronaDefinitivaIcono.94e9140f.png",
@@ -183,8 +183,8 @@
   "entrypoints": [
     "static/js/runtime-main.bca2ec82.js",
     "static/css/2.bf843a8a.chunk.css",
-    "static/js/2.3ec9aa29.chunk.js",
+    "static/js/2.ac2f0e39.chunk.js",
     "static/css/main.8192b378.chunk.css",
-    "static/js/main.f487b0c9.chunk.js"
+    "static/js/main.aa2a7ba4.chunk.js"
   ]
 }

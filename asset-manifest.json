@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.8192b378.chunk.css",
-    "main.js": "/static/js/main.aa2a7ba4.chunk.js",
-    "main.js.map": "/static/js/main.aa2a7ba4.chunk.js.map",
+    "main.css": "/static/css/main.4a261c05.chunk.css",
+    "main.js": "/static/js/main.d733d25f.chunk.js",
+    "main.js.map": "/static/js/main.d733d25f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bca2ec82.js",
     "runtime-main.js.map": "/static/js/runtime-main.bca2ec82.js.map",
-    "static/css/2.bf843a8a.chunk.css": "/static/css/2.bf843a8a.chunk.css",
-    "static/js/2.ac2f0e39.chunk.js": "/static/js/2.ac2f0e39.chunk.js",
-    "static/js/2.ac2f0e39.chunk.js.map": "/static/js/2.ac2f0e39.chunk.js.map",
+    "static/css/2.9f7ed9b3.chunk.css": "/static/css/2.9f7ed9b3.chunk.css",
+    "static/js/2.16b90bd2.chunk.js": "/static/js/2.16b90bd2.chunk.js",
+    "static/js/2.16b90bd2.chunk.js.map": "/static/js/2.16b90bd2.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.bf843a8a.chunk.css.map": "/static/css/2.bf843a8a.chunk.css.map",
-    "static/css/main.8192b378.chunk.css.map": "/static/css/main.8192b378.chunk.css.map",
-    "static/js/2.ac2f0e39.chunk.js.LICENSE.txt": "/static/js/2.ac2f0e39.chunk.js.LICENSE.txt",
+    "static/css/2.9f7ed9b3.chunk.css.map": "/static/css/2.9f7ed9b3.chunk.css.map",
+    "static/css/main.4a261c05.chunk.css.map": "/static/css/main.4a261c05.chunk.css.map",
+    "static/js/2.16b90bd2.chunk.js.LICENSE.txt": "/static/js/2.16b90bd2.chunk.js.LICENSE.txt",
     "static/media/AparatoOrtoIcono.99927c7b.png": "/static/media/AparatoOrtoIcono.99927c7b.png",
     "static/media/AparatoOrtodonticoRemovibleIcono.563b48cf.png": "/static/media/AparatoOrtodonticoRemovibleIcono.563b48cf.png",
     "static/media/CoronaDefinitivaIcono.94e9140f.png": "/static/media/CoronaDefinitivaIcono.94e9140f.png",
@@ -58,6 +58,8 @@
     "static/media/distal_vacio_rojo.e158a539.svg": "/static/media/distal_vacio_rojo.e158a539.svg",
     "static/media/distal_vacio_rojo.f06957ed.svg": "/static/media/distal_vacio_rojo.f06957ed.svg",
     "static/media/distal_vacio_rojo.fd19fbac.svg": "/static/media/distal_vacio_rojo.fd19fbac.svg",
+    "static/media/formato_nuevo.2b6b2153.jpg": "/static/media/formato_nuevo.2b6b2153.jpg",
+    "static/media/formato_viejo.657460bd.jpg": "/static/media/formato_viejo.657460bd.jpg",
     "static/media/imgProtesisFija.126b2146.png": "/static/media/imgProtesisFija.126b2146.png",
     "static/media/imgariosa.bc985b0e.png": "/static/media/imgariosa.bc985b0e.png",
     "static/media/imgdiastema.4a6bfda4.png": "/static/media/imgdiastema.4a6bfda4.png",
@@ -182,9 +184,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.bca2ec82.js",
-    "static/css/2.bf843a8a.chunk.css",
-    "static/js/2.ac2f0e39.chunk.js",
-    "static/css/main.8192b378.chunk.css",
-    "static/js/main.aa2a7ba4.chunk.js"
+    "static/css/2.9f7ed9b3.chunk.css",
+    "static/js/2.16b90bd2.chunk.js",
+    "static/css/main.4a261c05.chunk.css",
+    "static/js/main.d733d25f.chunk.js"
   ]
 }

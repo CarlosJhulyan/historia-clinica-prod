@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e2660075.chunk.css",
-    "main.js": "/static/js/main.a6d92d4f.chunk.js",
-    "main.js.map": "/static/js/main.a6d92d4f.chunk.js.map",
+    "main.js": "/static/js/main.b901754a.chunk.js",
+    "main.js.map": "/static/js/main.b901754a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bca2ec82.js",
     "runtime-main.js.map": "/static/js/runtime-main.bca2ec82.js.map",
     "static/css/2.9f7ed9b3.chunk.css": "/static/css/2.9f7ed9b3.chunk.css",
-    "static/js/2.e4e9cc86.chunk.js": "/static/js/2.e4e9cc86.chunk.js",
-    "static/js/2.e4e9cc86.chunk.js.map": "/static/js/2.e4e9cc86.chunk.js.map",
+    "static/js/2.203ee729.chunk.js": "/static/js/2.203ee729.chunk.js",
+    "static/js/2.203ee729.chunk.js.map": "/static/js/2.203ee729.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.9f7ed9b3.chunk.css.map": "/static/css/2.9f7ed9b3.chunk.css.map",
     "static/css/main.e2660075.chunk.css.map": "/static/css/main.e2660075.chunk.css.map",
-    "static/js/2.e4e9cc86.chunk.js.LICENSE.txt": "/static/js/2.e4e9cc86.chunk.js.LICENSE.txt",
+    "static/js/2.203ee729.chunk.js.LICENSE.txt": "/static/js/2.203ee729.chunk.js.LICENSE.txt",
     "static/media/AparatoOrtoIcono.99927c7b.png": "/static/media/AparatoOrtoIcono.99927c7b.png",
     "static/media/AparatoOrtodonticoRemovibleIcono.563b48cf.png": "/static/media/AparatoOrtodonticoRemovibleIcono.563b48cf.png",
     "static/media/CoronaDefinitivaIcono.94e9140f.png": "/static/media/CoronaDefinitivaIcono.94e9140f.png",
@@ -30,6 +30,7 @@
     "static/media/biensalud-logo.ed237521.ico": "/static/media/biensalud-logo.ed237521.ico",
     "static/media/canino-inv.180eae16.svg": "/static/media/canino-inv.180eae16.svg",
     "static/media/canino.4266d55c.svg": "/static/media/canino.4266d55c.svg",
+    "static/media/close-box.8d025922.png": "/static/media/close-box.8d025922.png",
     "static/media/corona_azul.ef79082c.svg": "/static/media/corona_azul.ef79082c.svg",
     "static/media/corona_azul.efa538df.svg": "/static/media/corona_azul.efa538df.svg",
     "static/media/corona_rojo.1d8d95e6.svg": "/static/media/corona_rojo.1d8d95e6.svg",
@@ -125,6 +126,7 @@
     "static/media/oclusal_vacio_rojo.85a8da93.svg": "/static/media/oclusal_vacio_rojo.85a8da93.svg",
     "static/media/ocluzal_rojo_vacio.42dcc576.svg": "/static/media/ocluzal_rojo_vacio.42dcc576.svg",
     "static/media/ocluzal_rojo_vacio.45d40d91.svg": "/static/media/ocluzal_rojo_vacio.45d40d91.svg",
+    "static/media/open-box.212f9565.png": "/static/media/open-box.212f9565.png",
     "static/media/palatino_azul_vacio.78842457.svg": "/static/media/palatino_azul_vacio.78842457.svg",
     "static/media/palatino_azul_vacio.911cc5c6.svg": "/static/media/palatino_azul_vacio.911cc5c6.svg",
     "static/media/palatino_lleno.11fffed3.svg": "/static/media/palatino_lleno.11fffed3.svg",
@@ -185,8 +187,8 @@
   "entrypoints": [
     "static/js/runtime-main.bca2ec82.js",
     "static/css/2.9f7ed9b3.chunk.css",
-    "static/js/2.e4e9cc86.chunk.js",
+    "static/js/2.203ee729.chunk.js",
     "static/css/main.e2660075.chunk.css",
-    "static/js/main.a6d92d4f.chunk.js"
+    "static/js/main.b901754a.chunk.js"
   ]
 }

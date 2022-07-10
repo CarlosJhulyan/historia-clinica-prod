@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.a4f97fe8.chunk.css",
-    "main.js": "/static/js/main.2c24d767.chunk.js",
-    "main.js.map": "/static/js/main.2c24d767.chunk.js.map",
+    "main.css": "/static/css/main.8dc3a1cb.chunk.css",
+    "main.js": "/static/js/main.97c246c7.chunk.js",
+    "main.js.map": "/static/js/main.97c246c7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bca2ec82.js",
     "runtime-main.js.map": "/static/js/runtime-main.bca2ec82.js.map",
     "static/css/2.9f7ed9b3.chunk.css": "/static/css/2.9f7ed9b3.chunk.css",
-    "static/js/2.56f1b485.chunk.js": "/static/js/2.56f1b485.chunk.js",
-    "static/js/2.56f1b485.chunk.js.map": "/static/js/2.56f1b485.chunk.js.map",
+    "static/js/2.1816d43d.chunk.js": "/static/js/2.1816d43d.chunk.js",
+    "static/js/2.1816d43d.chunk.js.map": "/static/js/2.1816d43d.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.9f7ed9b3.chunk.css.map": "/static/css/2.9f7ed9b3.chunk.css.map",
-    "static/css/main.a4f97fe8.chunk.css.map": "/static/css/main.a4f97fe8.chunk.css.map",
-    "static/js/2.56f1b485.chunk.js.LICENSE.txt": "/static/js/2.56f1b485.chunk.js.LICENSE.txt",
+    "static/css/main.8dc3a1cb.chunk.css.map": "/static/css/main.8dc3a1cb.chunk.css.map",
+    "static/js/2.1816d43d.chunk.js.LICENSE.txt": "/static/js/2.1816d43d.chunk.js.LICENSE.txt",
     "static/media/AparatoOrtoIcono.99927c7b.png": "/static/media/AparatoOrtoIcono.99927c7b.png",
     "static/media/AparatoOrtodonticoRemovibleIcono.563b48cf.png": "/static/media/AparatoOrtodonticoRemovibleIcono.563b48cf.png",
     "static/media/CoronaDefinitivaIcono.94e9140f.png": "/static/media/CoronaDefinitivaIcono.94e9140f.png",
@@ -28,8 +28,10 @@
     "static/media/UCI_V.98f8a798.png": "/static/media/UCI_V.98f8a798.png",
     "static/media/azul.942d47e5.jpg": "/static/media/azul.942d47e5.jpg",
     "static/media/biensalud-logo.ed237521.ico": "/static/media/biensalud-logo.ed237521.ico",
+    "static/media/biensalud-logo.f0c73bdf.png": "/static/media/biensalud-logo.f0c73bdf.png",
     "static/media/canino-inv.180eae16.svg": "/static/media/canino-inv.180eae16.svg",
     "static/media/canino.4266d55c.svg": "/static/media/canino.4266d55c.svg",
+    "static/media/cargando.6bbddc5b.gif": "/static/media/cargando.6bbddc5b.gif",
     "static/media/close-box.8d025922.png": "/static/media/close-box.8d025922.png",
     "static/media/corona_azul.ef79082c.svg": "/static/media/corona_azul.ef79082c.svg",
     "static/media/corona_azul.efa538df.svg": "/static/media/corona_azul.efa538df.svg",
@@ -189,8 +191,8 @@
   "entrypoints": [
     "static/js/runtime-main.bca2ec82.js",
     "static/css/2.9f7ed9b3.chunk.css",
-    "static/js/2.56f1b485.chunk.js",
-    "static/css/main.a4f97fe8.chunk.css",
-    "static/js/main.2c24d767.chunk.js"
+    "static/js/2.1816d43d.chunk.js",
+    "static/css/main.8dc3a1cb.chunk.css",
+    "static/js/main.97c246c7.chunk.js"
   ]
 }

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.8dc3a1cb.chunk.css",
-    "main.js": "/static/js/main.97c246c7.chunk.js",
-    "main.js.map": "/static/js/main.97c246c7.chunk.js.map",
+    "main.js": "/static/js/main.7cd69cfb.chunk.js",
+    "main.js.map": "/static/js/main.7cd69cfb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bca2ec82.js",
     "runtime-main.js.map": "/static/js/runtime-main.bca2ec82.js.map",
     "static/css/2.9f7ed9b3.chunk.css": "/static/css/2.9f7ed9b3.chunk.css",
-    "static/js/2.1816d43d.chunk.js": "/static/js/2.1816d43d.chunk.js",
-    "static/js/2.1816d43d.chunk.js.map": "/static/js/2.1816d43d.chunk.js.map",
+    "static/js/2.9d83964f.chunk.js": "/static/js/2.9d83964f.chunk.js",
+    "static/js/2.9d83964f.chunk.js.map": "/static/js/2.9d83964f.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.9f7ed9b3.chunk.css.map": "/static/css/2.9f7ed9b3.chunk.css.map",
     "static/css/main.8dc3a1cb.chunk.css.map": "/static/css/main.8dc3a1cb.chunk.css.map",
-    "static/js/2.1816d43d.chunk.js.LICENSE.txt": "/static/js/2.1816d43d.chunk.js.LICENSE.txt",
+    "static/js/2.9d83964f.chunk.js.LICENSE.txt": "/static/js/2.9d83964f.chunk.js.LICENSE.txt",
     "static/media/AparatoOrtoIcono.99927c7b.png": "/static/media/AparatoOrtoIcono.99927c7b.png",
     "static/media/AparatoOrtodonticoRemovibleIcono.563b48cf.png": "/static/media/AparatoOrtodonticoRemovibleIcono.563b48cf.png",
     "static/media/CoronaDefinitivaIcono.94e9140f.png": "/static/media/CoronaDefinitivaIcono.94e9140f.png",
@@ -26,7 +26,6 @@
     "static/media/UCI_F.b99ccf55.png": "/static/media/UCI_F.b99ccf55.png",
     "static/media/UCI_M.ae3cf7ad.png": "/static/media/UCI_M.ae3cf7ad.png",
     "static/media/UCI_V.98f8a798.png": "/static/media/UCI_V.98f8a798.png",
-    "static/media/azul.942d47e5.jpg": "/static/media/azul.942d47e5.jpg",
     "static/media/biensalud-logo.ed237521.ico": "/static/media/biensalud-logo.ed237521.ico",
     "static/media/biensalud-logo.f0c73bdf.png": "/static/media/biensalud-logo.f0c73bdf.png",
     "static/media/canino-inv.180eae16.svg": "/static/media/canino-inv.180eae16.svg",
@@ -88,8 +87,6 @@
     "static/media/imgsellantes.fdab51a8.png": "/static/media/imgsellantes.fdab51a8.png",
     "static/media/imgtransposicion.8bbbfa77.png": "/static/media/imgtransposicion.8bbbfa77.png",
     "static/media/imgtratamientopulpal.5d92f5ea.png": "/static/media/imgtratamientopulpal.5d92f5ea.png",
-    "static/media/logo.32b50ceb.png": "/static/media/logo.32b50ceb.png",
-    "static/media/logoP.3900f030.jpeg": "/static/media/logoP.3900f030.jpeg",
     "static/media/mesial_azul_vacio.3b747125.svg": "/static/media/mesial_azul_vacio.3b747125.svg",
     "static/media/mesial_azul_vacio.801e84bf.svg": "/static/media/mesial_azul_vacio.801e84bf.svg",
     "static/media/mesial_lleno.0464f5ff.svg": "/static/media/mesial_lleno.0464f5ff.svg",
@@ -161,7 +158,6 @@
     "static/media/premolar-vacio-1-inv.fe7dce87.svg": "/static/media/premolar-vacio-1-inv.fe7dce87.svg",
     "static/media/premolar-vacio-1.5d2836b9.svg": "/static/media/premolar-vacio-1.5d2836b9.svg",
     "static/media/premolar-vacio-2.395fda88.svg": "/static/media/premolar-vacio-2.395fda88.svg",
-    "static/media/rojo.382bf776.jpg": "/static/media/rojo.382bf776.jpg",
     "static/media/sprite-flags-24x24.css": "/static/media/sprite-flags-24x24.6bd080ea.png",
     "static/media/vestibular_azul_vacio.5b1b3909.svg": "/static/media/vestibular_azul_vacio.5b1b3909.svg",
     "static/media/vestibular_azul_vacio.6a40b3a6.svg": "/static/media/vestibular_azul_vacio.6a40b3a6.svg",
@@ -191,8 +187,8 @@
   "entrypoints": [
     "static/js/runtime-main.bca2ec82.js",
     "static/css/2.9f7ed9b3.chunk.css",
-    "static/js/2.1816d43d.chunk.js",
+    "static/js/2.9d83964f.chunk.js",
     "static/css/main.8dc3a1cb.chunk.css",
-    "static/js/main.97c246c7.chunk.js"
+    "static/js/main.7cd69cfb.chunk.js"
   ]
 }
